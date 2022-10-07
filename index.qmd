@@ -1,0 +1,6 @@
+---
+title: "Towards Realistic Models of Social Influence (ToRealSim)"
+subtitle: "Interdisciplinary workshop, July 2023 @ Jacobs University Bremen"
+format: html
+---
+
